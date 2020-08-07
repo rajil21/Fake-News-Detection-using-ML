@@ -8,7 +8,7 @@ We use supervised learning algorithms to implement a model like this as we use l
 
 Finally we conclude the best supervised algorthim for this particular dataset being used.  
 
-Find the python notebook file here ![ML_Project](ML_Project.ipynb)
+Find the python notebook file here [ML_Project](ML_Project.ipynb)
 
-Find the news dataset here ![news](news.csv)
+Find the news dataset here [news](news.csv)
 
